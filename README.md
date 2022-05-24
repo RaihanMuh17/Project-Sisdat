@@ -1,7 +1,4 @@
-# Project-Sisdat
-
-## Judul Aplikasi
-MiniMarket
+# Mini Market
 
 ## Anggota Kelompok
 - Raihan Muhammad Fuad Amin (140810210040)
